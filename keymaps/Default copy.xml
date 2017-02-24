@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+</keymap>
