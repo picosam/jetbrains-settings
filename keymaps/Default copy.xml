@@ -3,6 +3,9 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
