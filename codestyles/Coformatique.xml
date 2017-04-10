@@ -11,6 +11,8 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="160" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
