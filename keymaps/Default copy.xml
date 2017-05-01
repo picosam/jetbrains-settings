@@ -8,7 +8,9 @@
   <action id="ActivateInspectionResultsToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
