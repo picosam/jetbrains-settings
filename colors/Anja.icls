@@ -9,6 +9,7 @@
     <option name="CARET_COLOR" value="333333" />
     <option name="CARET_ROW_COLOR" value="e3e2e6" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
+    <option name="READONLY_BACKGROUND" value="dedede" />
     <option name="SELECTION_BACKGROUND" value="2f6f9f" />
   </colors>
   <attributes>
@@ -619,37 +620,7 @@
         <option name="FOREGROUND" value="999999" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="4f9fcf" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="7f8b18" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="HTML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="999999" />
-      </value>
-    </option>
-    <option name="HTML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="d44950" />
-      </value>
-    </option>
     <option name="HTML_TAG">
-      <value>
-        <option name="FOREGROUND" value="2f6f9f" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="2f6f9f" />
       </value>
