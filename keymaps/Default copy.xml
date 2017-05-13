@@ -1,5 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
