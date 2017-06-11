@@ -651,6 +651,7 @@
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="ffe317" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
