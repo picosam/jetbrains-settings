@@ -639,7 +639,8 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="7fac3c" />
+        <option name="FOREGROUND" value="737373" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_CODE">
