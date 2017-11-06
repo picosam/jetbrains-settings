@@ -1,12 +1,8 @@
 <scheme name="Anja" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Mono" />
   <colors>
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="333333" />
-    <option name="CARET_ROW_COLOR" value="e3e2e6" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
-    <option name="READONLY_BACKGROUND" value="dedede" />
     <option name="SELECTION_BACKGROUND" value="2f6f9f" />
   </colors>
   <attributes>
@@ -464,7 +460,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="85ed8" />
+        <option name="FOREGROUND" value="2f6f9f" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -531,7 +527,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="7fac3c" />
+        <option name="FOREGROUND" value="13a800" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -617,16 +613,6 @@
         <option name="FOREGROUND" value="999999" />
       </value>
     </option>
-    <option name="HAML_PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="HAML_RUBY_CODE">
-      <value>
-        <option name="BACKGROUND" value="ddeefc" />
-      </value>
-    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="4f9fcf" />
@@ -634,20 +620,17 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="737373" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="d44950" />
       </value>
     </option>
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="fafafa" />
       </value>
     </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="999999" />
-        <option name="BACKGROUND" value="ffe317" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -657,12 +640,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="84e9f" />
+        <option name="FOREGROUND" value="2f6f9f" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="84e9f" />
+        <option name="FOREGROUND" value="2f6f9f" />
       </value>
     </option>
     <option name="INI$COMMENT">
@@ -841,17 +824,6 @@
     <option name="JS$VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d44950" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSON$BLOCK_COMMENT">
@@ -1390,12 +1362,6 @@
         <option name="FOREGROUND" value="333333" />
       </value>
     </option>
-    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="7f0000" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
@@ -1432,48 +1398,6 @@
       </value>
     </option>
     <option name="TS$TYPE_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="TS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="TS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="TS.INSTANCE_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="b87900" />
-      </value>
-    </option>
-    <option name="TS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="TS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="TS.LOCAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TS.PARAMETER">
-      <value>
-        <option name="EFFECT_COLOR" value="0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="TS.STATIC_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="333333" />
       </value>
