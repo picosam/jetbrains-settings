@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="fnb-lamp" type="PLAIN_TEXT" />
+      <mapping pattern="fnb-family-photos.svg" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
