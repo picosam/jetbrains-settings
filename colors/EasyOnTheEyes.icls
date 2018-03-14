@@ -480,6 +480,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="6b86ff" />
