@@ -2,15 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="FamiliesMap.js" type="JavaScript" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="fnb-lamp" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="fnb-family-photos.svg" type="PLAIN_TEXT" />
-      <mapping pattern="fnb-lamp" type="PLAIN_TEXT" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
